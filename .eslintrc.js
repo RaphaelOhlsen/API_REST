@@ -19,5 +19,6 @@ module.exports = {
     'class-methods-use-this': 'off',
     'import/first': 'off',
     'no-param-reassign': 'off',
+    'no-named-as-default-member': 'off',
   },
 };
