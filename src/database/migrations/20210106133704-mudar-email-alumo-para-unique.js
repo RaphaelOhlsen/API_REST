@@ -5,7 +5,7 @@ module.exports = {
       'email',
       {
         type: Sequelize.STRING,
-        allownull: false,
+        allowNull: false,
         unique: true,
       },
     );
