@@ -20,7 +20,6 @@ module.exports = {
     'import/first': 'off',
     'no-param-reassign': 'off',
     'no-named-as-default-member': 'off',
-    'import/no-named-as-default': 'off',
     camelcase: 'off',
   },
 };
